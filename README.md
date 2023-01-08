@@ -183,7 +183,7 @@ I am an experienced ✨ Full-Stack Developer ✨ from Ukraine. Who likes to crea
 <a href="#title">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MarkKulUa&show_icons=true&locale=en&layout=compact&theme=react" alt="TopLangs" />
 </a>
-<div id="header" align="center">
+<div id="footer" align="center">
   <p align="center"><img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="100"/></p>
   <p id="badges">
     <a href="https://github.com/MarkKulUa">
@@ -193,8 +193,9 @@ I am an experienced ✨ Full-Stack Developer ✨ from Ukraine. Who likes to crea
       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
     </a>
   </p>
-
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
 </div>
+ 
 
 <!--
 **MarkKulUa/MarkKulUa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
