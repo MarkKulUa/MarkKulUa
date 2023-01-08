@@ -37,7 +37,7 @@ I am an experienced ✨ Full-Stack Developer ✨ from Ukraine. Who likes to crea
     </td>
     <td align="center" width="96">
       <a href="#skills">
-         <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql-original-wordmark.svg" width="48" height="48" alt="PostgreSql" />
+         <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" width="48" height="48" alt="PostgreSql" />
       </a>
       <br>PostgreSql
     </td>
