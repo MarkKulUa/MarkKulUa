@@ -11,6 +11,7 @@ I am an experienced ✨ Full-Stack Developer ✨ from Ukraine. Who likes to crea
 - :gear: Ability to work in a team.
 - :herb: In my free time, I study the possibilities of web development and read technical articles.
 - :mailbox_with_mail: Write me an email: <mark.dev.ua@gmail.com>
+- :bearded_person: <a href="https://www.linkedin.com/in/mark-kulishov-85140b1b5/" target=_blank>LinkedIn</a>    
 
 <h2 align="left" id="skills">:key: &nbsp;Skills & Experiences:</h2>
 
