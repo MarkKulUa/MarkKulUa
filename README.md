@@ -219,16 +219,6 @@ I am an experienced ✨ Full-Stack Developer ✨ from Ukraine. Who likes to crea
 <a href="#title">
   <img src="https://www.codewars.com/users/rsschool_1a76fd895fde02c7/badges/large" alt="Codewars Badge" />
 </a>
-
-<h2 align="left" id="skills">:fire: My statistics:</h2>
-
-<a href="#title">
-  <img src="https://github-readme-stats.vercel.app/api?username=MarkKulUa&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-</a>
-
-<a href="#title">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MarkKulUa&show_icons=true&locale=en&layout=compact&theme=react" alt="TopLangs" />
-</a>
 <div id="footer" align="center">
   <p align="center"><img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="100"/></p>
   <p id="badges">
