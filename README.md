@@ -235,9 +235,6 @@ I am an experienced ✨ Full-Stack Developer ✨ from Ukraine. Who likes to crea
     <a href="https://github.com/MarkKulUa">
       <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
     </a>
-    <a href="https://t.me/MarkKDn">
-      <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-    </a>
   </p>
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
 </div>
