@@ -5,7 +5,7 @@
 <h2 align="left" id="about">:newspaper_roll: &nbsp;About Me:</h2>
 
 I am an experienced ✨ Full-Stack Developer ✨ from Ukraine. Who likes to create beautiful and simple web applications.
- <h3><a href="https://rs-graphiql-app.netlify.app/cv" target=_blank>Web CV</a></h3>
+ <h3><a href="https://angular-portfolio-mark.vercel.app/resume" target=_blank>Web CV</a></h3>
  
 - :ice_cube: A creative person who is ready to create and embody.
 - :computer: Great desire and motivation to gain new knowledge in the field of Programming.
